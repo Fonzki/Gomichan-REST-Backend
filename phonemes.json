@@ -1,0 +1,312 @@
+{
+    "phonemes": [
+        {
+            "id": 1,
+            "name": "b",
+            "symbol": "b",
+            "aiueo_link": "https://www.youtube.com/watch?v=dvzgT2XG3Zg",
+            "daijiro_link": null
+        },
+        {
+            "id": 2,
+            "name": "d",
+            "symbol": "d",
+            "aiueo_link": "https://www.youtube.com/watch?v=65eWe6FZfro",
+            "daijiro_link": null
+        },
+        {
+            "id": 3,
+            "name": "f",
+            "symbol": "f",
+            "aiueo_link": "https://youtu.be/fOJX5e-XsCE?t=14",
+            "daijiro_link": null
+        },
+        {
+            "id": 4,
+            "name": "g",
+            "symbol": "g",
+            "aiueo_link": "https://www.youtube.com/watch?v=65eWe6FZfro",
+            "daijiro_link": null
+        },
+        {
+            "id": 5,
+            "name": "h",
+            "symbol": "h",
+            "aiueo_link": null,
+            "daijiro_link": "https://www.youtube.com/watch?v=hPx1dDulcEc"
+        },
+        {
+            "id": 6,
+            "name": "j",
+            "symbol": "d\u0292",
+            "aiueo_link": null,
+            "daijiro_link": "https://www.youtube.com/watch?v=8FVxzCQyRkU&t=258s"
+        },
+        {
+            "id": 7,
+            "name": "k",
+            "symbol": "k",
+            "aiueo_link": null,
+            "daijiro_link": "https://www.youtube.com/watch?v=65eWe6FZfro"
+        },
+        {
+            "id": 14,
+            "name": "l",
+            "symbol": "l",
+            "aiueo_link": "https://www.youtube.com/watch?v=onm8zAT0wjs&list=PLmDE3FhHalPBrbRwlVIPQteV8ryFNypqR",
+            "daijiro_link": null
+        },
+        {
+            "id": 10,
+            "name": "m",
+            "symbol": "m",
+            "aiueo_link": "https://youtu.be/cPRIbhZKeq4",
+            "daijiro_link": null
+        },
+        {
+            "id": 11,
+            "name": "n",
+            "symbol": "n",
+            "aiueo_link": "https://youtu.be/G7XuXC0zpIA",
+            "daijiro_link": null
+        },
+        {
+            "id": 12,
+            "name": "p",
+            "symbol": "p",
+            "aiueo_link": "https://youtu.be/65eWe6FZfro",
+            "daijiro_link": null
+        },
+        {
+            "id": 13,
+            "name": "r",
+            "symbol": "r",
+            "aiueo_link": "https://www.youtube.com/watch?v=ZskLbr54Lmc&list=PLmDE3FhHalPA_UMNfGnNi-9WNxgudSD_G",
+            "daijiro_link": null
+        },
+        {
+            "id": 15,
+            "name": "s",
+            "symbol": "s",
+            "aiueo_link": "https://www.youtube.com/watch?v=CYXyJ5QC_rY&list=PLmDE3FhHalPA_M_B_eDlZ0FKeRzago5XL",
+            "daijiro_link": null
+        },
+        {
+            "id": 16,
+            "name": "t",
+            "symbol": "t",
+            "aiueo_link": "https://www.youtube.com/watch?v=jyff8suWWBw&list=PLmDE3FhHalPD2lBP6rFmjDq_BH_LX1NgI",
+            "daijiro_link": null
+        },
+        {
+            "id": 17,
+            "name": "v",
+            "symbol": "v",
+            "aiueo_link": "https://www.youtube.com/watch?v=dvzgT2XG3Zg",
+            "daijiro_link": null
+        },
+        {
+            "id": 18,
+            "name": "w",
+            "symbol": "w",
+            "aiueo_link": "https://www.youtube.com/watch?v=fkiZVNDHCjA&list=PLmDE3FhHalPCkKuJnpmqubjMAuX4quZFY",
+            "daijiro_link": null
+        },
+        {
+            "id": 19,
+            "name": "z",
+            "symbol": "z",
+            "aiueo_link": null,
+            "daijiro_link": "https://youtu.be/eMn8by_RacY?t=225"
+        },
+        {
+            "id": 20,
+            "name": "ezh",
+            "symbol": "\u0292",
+            "aiueo_link": null,
+            "daijiro_link": "https://youtu.be/8FVxzCQyRkU?t=233"
+        },
+        {
+            "id": 21,
+            "name": "ch",
+            "symbol": "t\u0283",
+            "aiueo_link": null,
+            "daijiro_link": "https://youtu.be/8FVxzCQyRkU?t=152"
+        },
+        {
+            "id": 22,
+            "name": "sh",
+            "symbol": "\u0283",
+            "aiueo_link": null,
+            "daijiro_link": "https://youtu.be/8FVxzCQyRkU?t=26"
+        },
+        {
+            "id": 23,
+            "name": "th",
+            "symbol": "\u03b8",
+            "aiueo_link": null,
+            "daijiro_link": "https://youtu.be/eMn8by_RacY?t=33"
+        },
+        {
+            "id": 24,
+            "name": "eth",
+            "symbol": "\u00f0",
+            "aiueo_link": null,
+            "daijiro_link": "https://youtu.be/eMn8by_RacY?t=146"
+        },
+        {
+            "id": 25,
+            "name": "eng",
+            "symbol": "\u014b",
+            "aiueo_link": "https://www.youtube.com/watch?v=G7XuXC0zpIA",
+            "daijiro_link": "https://youtu.be/gHD27LJC-M4?t=177"
+        },
+        {
+            "id": 26,
+            "name": "yod",
+            "symbol": "j",
+            "aiueo_link": "https://www.youtube.com/watch?v=v4-7qlCrlDk",
+            "daijiro_link": "https://youtu.be/hPx1dDulcEc?t=449"
+        },
+        {
+            "id": 27,
+            "name": "ash",
+            "symbol": "\u00e6",
+            "aiueo_link": "https://www.youtube.com/watch?v=TlRMDHmkBuM&list=PLmDE3FhHalPCuAYdSCJjvQhRD5zl-9JW7",
+            "daijiro_link": null
+        },
+        {
+            "id": 28,
+            "name": "ei",
+            "symbol": "e\u026a",
+            "aiueo_link": "https://youtu.be/RIgE_2VI6Zs",
+            "daijiro_link": null
+        },
+        {
+            "id": 29,
+            "name": "e",
+            "symbol": "\u03b5",
+            "aiueo_link": "https://youtu.be/TVxnhWV8iJQ",
+            "daijiro_link": null
+        },
+        {
+            "id": 30,
+            "name": "ee",
+            "symbol": "i",
+            "aiueo_link": "https://www.youtube.com/watch?v=jdY2jjTd_e0&list=PLmDE3FhHalPANuZq88Ucbh44EANYEkrg5",
+            "daijiro_link": null
+        },
+        {
+            "id": 31,
+            "name": "ih",
+            "symbol": "\u026a",
+            "aiueo_link": "https://youtu.be/zGR9KeOs0oQ",
+            "daijiro_link": null
+        },
+        {
+            "id": 32,
+            "name": "ai",
+            "symbol": "a\u026a",
+            "aiueo_link": "https://youtu.be/yl3SQjzoq0Q",
+            "daijiro_link": null
+        },
+        {
+            "id": 33,
+            "name": "aw",
+            "symbol": "\u0252",
+            "aiueo_link": "https://www.youtube.com/watch?v=IH1DGl2XZs8&list=PLmDE3FhHalPAZ2I4js_6nOXTae4JJAnRs",
+            "daijiro_link": null
+        },
+        {
+            "id": 34,
+            "name": "ou",
+            "symbol": "o\u028a",
+            "aiueo_link": "https://www.youtube.com/watch?v=Qqlq_WMEOeY&list=PLmDE3FhHalPAlzOj1dV6tERtI2gjfgfr0",
+            "daijiro_link": null
+        },
+        {
+            "id": 35,
+            "name": "oo",
+            "symbol": "\u028a",
+            "aiueo_link": "https://youtu.be/YWxU7fww7pI",
+            "daijiro_link": null
+        },
+        {
+            "id": 36,
+            "name": "uh",
+            "symbol": "\u028c",
+            "aiueo_link": "https://www.youtube.com/watch?v=TlRMDHmkBuM&list=PLmDE3FhHalPDvbDHPMs4jpIacZ3Z1Pv8P",
+            "daijiro_link": null
+        },
+        {
+            "id": 37,
+            "name": "ue",
+            "symbol": "u",
+            "aiueo_link": "https://youtu.be/Uvj7XJpfmDk",
+            "daijiro_link": null
+        },
+        {
+            "id": 38,
+            "name": "oy",
+            "symbol": "\u0254\u026a",
+            "aiueo_link": "https://youtu.be/AeG1aihTodk",
+            "daijiro_link": null
+        },
+        {
+            "id": 39,
+            "name": "ow",
+            "symbol": "a\u028a",
+            "aiueo_link": "https://www.youtube.com/watch?v=kQFiBzAk6-o&list=PLmDE3FhHalPBI0XQUWD6Fgq9N4qlLPJhE",
+            "daijiro_link": null
+        },
+        {
+            "id": 40,
+            "name": "schwa",
+            "symbol": "\u0259",
+            "aiueo_link": "https://www.youtube.com/watch?v=vKXhxIKGe8U",
+            "daijiro_link": null
+        },
+        {
+            "id": 41,
+            "name": "air",
+            "symbol": "e\u0259\u02b3",
+            "aiueo_link": "https://youtu.be/iVy1dV4fGWA",
+            "daijiro_link": null
+        },
+        {
+            "id": 42,
+            "name": "ar",
+            "symbol": "\u0251:",
+            "aiueo_link": "https://www.youtube.com/watch?v=Cgkfj34a1O4&list=PLmDE3FhHalPCZ7hWTk1uq7SJa13Puynp0",
+            "daijiro_link": null
+        },
+        {
+            "id": 43,
+            "name": "ir",
+            "symbol": "\u025c:\u02b3",
+            "aiueo_link": "https://www.youtube.com/watch?v=KbIq5UraBfU&list=PLmDE3FhHalPAX61aWHfBzL5lspuqtZMKJ",
+            "daijiro_link": null
+        },
+        {
+            "id": 44,
+            "name": "or",
+            "symbol": "\u0254:",
+            "aiueo_link": "https://youtu.be/7gjtwPBv4yU",
+            "daijiro_link": null
+        },
+        {
+            "id": 45,
+            "name": "eer",
+            "symbol": "\u026a\u0259\u02b3",
+            "aiueo_link": "https://youtu.be/_L7zyXy46WY",
+            "daijiro_link": null
+        },
+        {
+            "id": 46,
+            "name": "ure",
+            "symbol": "\u028a\u0259\u02b3",
+            "aiueo_link": null,
+            "daijiro_link": "https://youtu.be/ymUUYAsdWEI?t=1015"
+        }
+    ]
+}
