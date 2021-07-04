@@ -13,4 +13,4 @@
 4. cd into folder and run 'pip install -r requirements.txt'
 5. run 'flask run'
 6. to demo ensure server is running at 'http://127.0.0.1:5000/'
-7. [ON FIRST RUN] send a POST request to the 'http://127.0.0.1:5000/phonemes' to load phonemes.json
+7. [ON FIRST RUN] send a POST request to the 'http://127.0.0.1:5000/phonemes'　endpoint to load phonemes.json
