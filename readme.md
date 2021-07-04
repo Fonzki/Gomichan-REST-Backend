@@ -1,5 +1,6 @@
 # Gomichan REST Backend 
-Serves translated subtitle lines for youtube videos with highlighted grammar and pronunciation guides.
+1. Serves translated subtitle lines for youtube videos with highlighted grammar and pronunciation guides.
+2. Generates Text-To-Speech files with Google TTS for pronunciation aids (files will appear but don't upload so, sound links do not work.)
 
 - for use with [Gomichan-API-Tool](https://github.com/Fonzki/Gomichan-API-Tool)
 - built with flask-RESTful and flask-SQLAlchemy (Python 3.8)
